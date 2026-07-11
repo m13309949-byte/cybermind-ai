@@ -1,0 +1,74 @@
+{
+  "app_name": "CyberMind AI",
+  "nav_home": "Home",
+  "nav_chat": "AI Chat",
+  "nav_scan": "Scan",
+  "nav_learn": "Learn",
+  "nav_profile": "Profile",
+
+  "home_greeting": "Stay ahead of threats",
+  "home_subtitle": "Your AI cybersecurity companion",
+  "quick_link_scan": "Link Scanner",
+  "quick_scam_detector": "Scam Detector",
+  "quick_password": "Password Checker",
+  "quick_qr": "QR Scanner",
+  "quick_file": "File Scanner",
+  "quick_news": "Security News",
+
+  "chat_title": "AI Security Assistant",
+  "chat_hint": "Ask about phishing, malware, ransomware...",
+  "chat_disclaimer": "AI-generated guidance. Not a substitute for professional incident response.",
+
+  "link_title": "Link Scanner",
+  "link_hint": "Paste a URL to analyze",
+  "link_scan_btn": "Analyze Link",
+  "link_risk_score": "Risk Score",
+  "link_verdict_safe": "Looks Safe",
+  "link_verdict_suspicious": "Suspicious",
+  "link_verdict_dangerous": "Dangerous",
+
+  "scam_title": "Scam Message Detector",
+  "scam_hint": "Paste the message (SMS, WhatsApp, Email, Telegram)",
+  "scam_scan_btn": "Analyze Message",
+  "scam_warning_signs": "Warning Signs",
+
+  "password_title": "Password Strength Checker",
+  "password_hint": "Type a password (never uploaded)",
+  "password_local_notice": "Checked 100% on your device. Never sent to any server.",
+  "password_suggest_btn": "Suggest Stronger Password",
+
+  "qr_title": "QR Scanner",
+  "qr_scan_instruction": "Point your camera at a QR code",
+
+  "file_title": "File Scanner",
+  "file_pick_btn": "Choose File to Scan",
+  "file_report": "Safety Report",
+
+  "news_title": "Security News",
+
+  "learn_title": "Learning Center",
+  "learn_beginner": "Beginner",
+  "learn_intermediate": "Intermediate",
+  "learn_advanced": "Advanced",
+  "learn_quiz": "Take Quiz",
+  "learn_certificate": "Get Certificate",
+
+  "profile_title": "Profile",
+  "profile_login_google": "Continue with Google",
+  "profile_login_apple": "Continue with Apple",
+  "profile_login_email": "Continue with Email",
+  "profile_history": "Scan History",
+  "profile_premium": "Go Premium",
+
+  "premium_title": "CyberMind Premium",
+  "premium_unlimited_scans": "Unlimited AI scans",
+  "premium_faster": "Priority, faster analysis",
+  "premium_deep_reports": "Deep security reports",
+  "premium_subscribe": "Subscribe",
+
+  "common_cancel": "Cancel",
+  "common_save": "Save",
+  "common_loading": "Analyzing...",
+  "common_error": "Something went wrong. Please try again.",
+  "common_upgrade": "Upgrade to Premium for more scans today."
+}
