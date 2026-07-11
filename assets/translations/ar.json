@@ -1,0 +1,74 @@
+{
+  "app_name": "سايبر مايند AI",
+  "nav_home": "الرئيسية",
+  "nav_chat": "المحادثة الذكية",
+  "nav_scan": "الفحص",
+  "nav_learn": "التعلم",
+  "nav_profile": "الملف الشخصي",
+
+  "home_greeting": "ابقَ متقدمًا على التهديدات",
+  "home_subtitle": "مرافقك الذكي للأمن السيبراني",
+  "quick_link_scan": "فاحص الروابط",
+  "quick_scam_detector": "كاشف الاحتيال",
+  "quick_password": "فحص كلمة المرور",
+  "quick_qr": "ماسح QR",
+  "quick_file": "فاحص الملفات",
+  "quick_news": "أخبار الأمن السيبراني",
+
+  "chat_title": "المساعد الأمني الذكي",
+  "chat_hint": "اسأل عن التصيد، البرمجيات الخبيثة، الفدية...",
+  "chat_disclaimer": "إرشادات مولدة بالذكاء الاصطناعي، لا تغني عن فريق استجابة محترف.",
+
+  "link_title": "فاحص الروابط",
+  "link_hint": "الصق رابطًا لتحليله",
+  "link_scan_btn": "تحليل الرابط",
+  "link_risk_score": "درجة الخطورة",
+  "link_verdict_safe": "يبدو آمنًا",
+  "link_verdict_suspicious": "مشبوه",
+  "link_verdict_dangerous": "خطير",
+
+  "scam_title": "كاشف رسائل الاحتيال",
+  "scam_hint": "الصق الرسالة (SMS، واتساب، بريد، تيليجرام)",
+  "scam_scan_btn": "تحليل الرسالة",
+  "scam_warning_signs": "علامات التحذير",
+
+  "password_title": "فحص قوة كلمة المرور",
+  "password_hint": "اكتب كلمة مرور (لا تُرفع أبدًا)",
+  "password_local_notice": "يتم الفحص بالكامل على جهازك، ولا تُرسل أي بيانات لأي خادم.",
+  "password_suggest_btn": "اقترح كلمة مرور أقوى",
+
+  "qr_title": "ماسح QR",
+  "qr_scan_instruction": "وجّه الكاميرا نحو رمز QR",
+
+  "file_title": "فاحص الملفات",
+  "file_pick_btn": "اختر ملفًا للفحص",
+  "file_report": "تقرير السلامة",
+
+  "news_title": "أخبار الأمن السيبراني",
+
+  "learn_title": "مركز التعلم",
+  "learn_beginner": "مبتدئ",
+  "learn_intermediate": "متوسط",
+  "learn_advanced": "متقدم",
+  "learn_quiz": "ابدأ الاختبار",
+  "learn_certificate": "احصل على الشهادة",
+
+  "profile_title": "الملف الشخصي",
+  "profile_login_google": "المتابعة عبر جوجل",
+  "profile_login_apple": "المتابعة عبر أبل",
+  "profile_login_email": "المتابعة عبر البريد الإلكتروني",
+  "profile_history": "سجل الفحوصات",
+  "profile_premium": "الترقية للمميز",
+
+  "premium_title": "سايبر مايند بريميوم",
+  "premium_unlimited_scans": "فحوصات غير محدودة بالذكاء الاصطناعي",
+  "premium_faster": "تحليل أسرع وذو أولوية",
+  "premium_deep_reports": "تقارير أمنية متعمقة",
+  "premium_subscribe": "اشترك الآن",
+
+  "common_cancel": "إلغاء",
+  "common_save": "حفظ",
+  "common_loading": "جاري التحليل...",
+  "common_error": "حدث خطأ ما، حاول مرة أخرى.",
+  "common_upgrade": "قم بالترقية للمميز للمزيد من الفحوصات اليوم."
+}
